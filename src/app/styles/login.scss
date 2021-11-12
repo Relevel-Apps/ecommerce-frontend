@@ -1,0 +1,20 @@
+.login-wrapper {
+    width: 600px;
+    margin: 50px auto 0;
+
+    .signup-btn, .login-btn {
+        text-align: center;
+        font-size: 14px;
+        color: #2980b9;
+        cursor: pointer;
+        width: 300px;
+        margin: 20px auto 0;
+    }
+
+    .auth-error-msg {
+        color: #e74c3c;
+        margin-top: 20px;
+        font-size: 14px;
+        text-align: center;
+    }
+}
