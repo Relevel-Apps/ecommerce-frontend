@@ -18,6 +18,9 @@ npm run build
 
 ## Running the Application
 
+```
+npm start
+```
 Go to http://localhost:3000
 
 
